@@ -85,7 +85,7 @@ I like creating clean websites, backend systems, and learning new technologies i
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<p>phpMyAdmin</p>
+<p>MySQL</p>
 
 </td>
 
