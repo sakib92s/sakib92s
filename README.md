@@ -5,7 +5,7 @@
   Hi, I'm <strong>Sakib Shaikh</strong>
 </h1>
 
-<h3>Web Developer | PHP • Android • Python</h3>
+<h3>Web Developer | PHP • Java • Python | Vibe Coder</h3>
 
 <div align="left">
 
@@ -13,7 +13,7 @@
 
 <p>
 I'm a passionate developer who enjoys building web and software applications.
-I like creating clean websites, Android apps, and learning new technologies in programming.
+I like creating clean websites, backend systems, and learning new technologies in programming.
 </p>
 
 <p>
@@ -36,13 +36,13 @@ I like creating clean websites, Android apps, and learning new technologies in p
 <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="[https://linkedin.com/](https://www.linkedin.com/in/sakib-shaikh-b5755b397?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
+<a href="https://www.linkedin.com/in/sakib-shaikh-b5755b397">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sakibshaikh&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=sakib92s&style=flat-square&color=blue" alt="Profile Visit"/>
 
 </div>
 
@@ -67,11 +67,11 @@ I like creating clean websites, Android apps, and learning new technologies in p
 
 <td width="50%" align="center">
 
-<h3>📱 Android Development</h3>
+<h3>☕ Java Development</h3>
 
-<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=java" />
 
-<p>XML • Java</p>
+<p>Core Java • OOP • Multithreading</p>
 
 </td>
 
@@ -103,14 +103,30 @@ I like creating clean websites, Android apps, and learning new technologies in p
 
 </p>
 
-## ❤️ Support Me <p align="center"> <a href="https://www.buymeacoffee.com/midhun_mike"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/> </a> </p>
-
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=sakib92s&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakib92s&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib92s&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/midhun_mike">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
+</p>
