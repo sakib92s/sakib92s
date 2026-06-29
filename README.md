@@ -131,7 +131,7 @@ I like creating clean websites, backend systems, and learning new technologies i
 ## ❤️ Support Me
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/midhun_mike">
+<a href="#">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
 </a>
 </p>
