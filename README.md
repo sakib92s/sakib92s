@@ -131,7 +131,5 @@ I like creating clean websites, backend systems, and learning new technologies i
 ## ❤️ Support Me
 
 <p align="center">
-<a href="buymeacoffee.com/buildwithsakib"> 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-</a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="buildwithsakib" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 </p>
